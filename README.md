@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Berk!+👋;I'm+a+CS+Graduate+Full+Stack+Developer)](https://www.linkedin.com/in/cohadarberk/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Berk!+👋;I'm+a+Full+Stack+Developer)](https://www.linkedin.com/in/cohadarberk/)
 
 ![Berk's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkcohadar&theme=github_dark&show_icons=true&count_private=true&title_color=C96702&bg_color=03071E&icon_color=AACCEE&text_color=8C7C73)
 
